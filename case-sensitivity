@@ -1,0 +1,25 @@
+// in js case-sensitivity is important so we have to be careful about the case of the variable names
+// the most common error is to use a variable name with the wrong case
+// mostly peole use camelCase for variable names
+// example:
+var myVariable = "I am a variable";
+console.log(myvariable); // this will throw an error because the variable name is not the same as the one declared  in the first line
+
+// myVariable and myvariable are two different variables
+// so we have to be careful about the case of the variable names
+
+// more examples:
+var TitleCaseOver;
+var StUdLyCapVaR;
+var properCamelCase;
+var lowerCamelCase;
+var snake_case;
+
+// All of the above are valid variable names in js
+
+// Assignment:
+var TitleCaseOver = "I am a variable";
+var StUdLyCapVaR = "I am a variable";
+var properCamelCase = "I am a variable";
+var lowerCamelCase = "I am a variable";
+var snake_case = "I am a variable";
