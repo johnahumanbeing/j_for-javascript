@@ -4,6 +4,7 @@ var firstLetterOfFirstName = "";
 var firstName = "Tottenham";
 
 firstLetterOfFirstName = firstName[0];
+// we start counting from 0, that refers the first character of the string
 // [0] will return the first character of the string
 
 var firstLetterOfLastName = "";
