@@ -83,10 +83,11 @@ if (age > 18) {
 }
 ```
 
-### Further Reading
+### Further Reading / watch
 
 - [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript.info](https://javascript.info/)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [Freecode camp Youtube, intro to javascript](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=764s)
 
 Happy Coding!
