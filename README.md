@@ -26,8 +26,6 @@ example:
 ## Contributing
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-Happy Coding!
-
 ## Introduction to JavaScript
 
 JavaScript is a versatile and powerful programming language that is widely used for web development. It allows you to create dynamic and interactive web pages. Whether you are a beginner or an experienced developer, this guide will help you get started with JavaScript.
